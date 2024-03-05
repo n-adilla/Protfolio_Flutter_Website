@@ -26,8 +26,14 @@ class _PortfolioDesktopState extends State<PortfolioDesktop> {
         children: [
           const CustomSectionHeading(text: "\nProjects"),
           Space.y(1.w)!,
-          CustomSectionSubHeading(text: protfolioSubHeading),
+          CustomSectionSubHeading(text: portfolioSubHeading),
           Space.y(2.w)!,
+          const Text(
+            "<Under Construction>",
+            style: TextStyle(color: Colors.white, fontSize: 22),
+          ),
+
+          /*
           Wrap(
             alignment: WrapAlignment.start,
             crossAxisAlignment: WrapCrossAlignment.start,
@@ -54,6 +60,7 @@ class _PortfolioDesktopState extends State<PortfolioDesktop> {
               ),
             ),
           )
+          */
         ],
       ),
     );

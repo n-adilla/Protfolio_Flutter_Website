@@ -22,9 +22,14 @@ class PortfolioMobileTab extends StatelessWidget {
         Space.y(3.w)!,
         Padding(
           padding: EdgeInsets.symmetric(horizontal: 10.w),
-          child: CustomSectionSubHeading(text: protfolioSubHeading),
+          child: CustomSectionSubHeading(text: portfolioSubHeading),
         ),
         Space.y(5.w)!,
+        const Text(
+          "<Under Construction>",
+          style: TextStyle(color: Colors.white, fontSize: 22),
+        ),
+        /*
         CarouselSlider.builder(
           itemCount: projectUtils.length,
           itemBuilder: (BuildContext context, int itemIndex, int i) => Padding(
@@ -55,6 +60,7 @@ class PortfolioMobileTab extends StatelessWidget {
             ),
           ),
         )
+        */
       ],
     );
   }

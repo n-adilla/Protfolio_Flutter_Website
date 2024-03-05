@@ -1,11 +1,12 @@
-String hellotag = '''Hi there, Welcome to My Space  ''';
+String hellotag = '''Hi there, Welcome to my portfolio site!  ''';
 
-String yourname = "I'm Sudesh Bandara,";
+String yourname = "I'm Adilla Nurdin,";
 // String hometitle2 = "A Mobile Application\nDeveloper";
 
-String animationtxt1 = " Mobile Application Developer";
-String animationtxt2 = " UI/UX Designer";
-String animationtxt3 = " Web Developer";
+String animationtxt1 = " A Mobile Application Developer";
+String animationtxt2 = " An iOS Developer";
+String animationtxt3 = " An Android Developer";
+String animationtxt4 = " A Web Developer";
 
 //
 String contactHeadding = "Let’s try my service now!";
@@ -16,13 +17,13 @@ String miniDescription =
     "Freelancer providing services for programming and design content needs. Join me down below and let's get started!";
 
 String servicesSubHeading =
-    "Since the beginning of my journey as a freelance designer and developer, I've worked in startups and collaborated with talented people to create digital products for both business and consumer use. I offer a wide range of services, including brand design, programming and teaching.";
+    "I am a passionate software developer who has been developing mobile apps using Flutter for over 3 years. Throughout my journey, I have gained experience in Java Android and JavaScript web development as well. I am driven by my enthusiasm for exploring emerging technologies and always eager to stay up-to-date with the latest advancements in the field. With my analytical mindset and practical problem-solving approach, I tackle challenges with determination and strive to see projects through to completion. Additionally, I am skilled in project management and adept at preparing user documentation to ensure seamless project execution.";
 //
 
-String protfolioSubHeading =
-    "Since the beginning of my journey as a designer and developer, I have created digital products for business and consumer use. This is a little bit.";
+String portfolioSubHeading =
+    "Since the beginning of my journey as a software developer, I have worked/been working on a few application projects. Here are some of them:";
 const String aboutMeHeadline =
-    'I\'m Sudesh Bandara, a Mobile App developer, Web developer and UI designer.';
+    'I\'m Adilla Nurdin, a Mobile App developer, Web developer and UI designer.';
 
 const String aboutMeDetail =
     'I\'m a Fresh Graduate as Software Engineer from Quanrt University, UK. I have been developing mobile apps for over 4 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. Been a CEO/Co-Founder of Onyxsio, Sri Lanka. Currently working as an Associate Software Engineer at Onyxsio.';
